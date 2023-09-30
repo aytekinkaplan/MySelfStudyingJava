@@ -15,5 +15,20 @@ public class TDarrays2 {
         grades[2][1]=67;
         grades[2][2]=89;
         grades[2][3]=71;
+
+        for (int i = 0; i < grades.length; i++) {
+         switch (i){
+             case 0:
+                 System.out.print("\tHarry Potter: ");break;
+             case 1:
+                 System.out.print("\tRon Wisley: ");break;
+             case 2:
+                 System.out.print("\tHermione Gringer: ");break;
+         }
+            for (int j = 0; j < grades[i].length; j++) {
+                System.out.print(grades[i][j]+" ");
+            }
+            System.out.println("\n");
+        }
     }
 }
