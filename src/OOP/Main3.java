@@ -15,6 +15,7 @@ public class Main3 {
                 ". It was built in " + nissan.getYear() + ". It is " + nissan.getColor() + ".\n");
 
 
+
         /*
         Car2 toyota = new Car2("Toyota",10000, 2020,"Green");
         Car2 dodge = new Car2("Dodge", 11000, 2019, "Blue");
