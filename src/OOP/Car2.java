@@ -1,10 +1,10 @@
 package OOP;
 
 public class Car2 {
-    String make;
-    double price;
-    int year;
-    String color;
+   private String make;
+    private double price;
+    private int year;
+    private String color;
 
     public Car2(String make, double price, int year, String color){
         this.make = make;
@@ -12,4 +12,14 @@ public class Car2 {
         this.year = year;
         this.color = color;
     }
+
+    public String getMake() {
+        return make;
+    }
+
+    public double getPrice(){
+        return price;
+    }
+
+
 }
