@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a68a91-1a0b-4f90-a91b-ebcef349e316" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Examples002/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Examples002/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/New.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Examples001/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Examples001/Car2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Examples001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Examples001/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Examples001/Main3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +72,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main3">
+  <component name="RunManager" selected="Application.OOP.Examples002.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP.Examples001.Main" />
       <module name="UdemyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.Examples001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Main2" />
+      <option name="MAIN_CLASS_NAME" value="OOP.Examples001.Main2" />
       <module name="UdemyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.Examples001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Main3" />
+      <option name="MAIN_CLASS_NAME" value="OOP.Examples001.Main3" />
       <module name="UdemyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.Examples001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,9 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TDarrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TDarrays1" />
+    <configuration name="OOP.Examples002.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Examples002.Main" />
       <module name="UdemyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Examples002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP.Examples002.Main" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TDarrays2" />
-        <item itemvalue="Application.TDarrays1" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696095228811</updated>
       <workItem from="1696095229956" duration="1915000" />
-      <workItem from="1696098191869" duration="9375000" />
+      <workItem from="1696098191869" duration="13801000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -308,7 +321,31 @@
       <option name="project" value="LOCAL" />
       <updated>1696162667804</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1696163102056</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696163102056</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1696166723564</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696166723564</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1696179631592</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696179631592</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
