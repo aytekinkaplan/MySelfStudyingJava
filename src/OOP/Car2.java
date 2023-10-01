@@ -13,6 +13,22 @@ public class Car2 {
         this.color = color;
     }
 
+    public void setMake(String make) {
+        this.make = make;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
     public String getMake() {
         return make;
     }
