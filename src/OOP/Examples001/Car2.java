@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Examples001;
 
 public class Car2 {
     private String make;
